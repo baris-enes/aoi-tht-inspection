@@ -34,7 +34,7 @@ Das AOI-System dient in diesem Projekt als **Firewall** gegen sicherheitskritisc
 Die AOI-Konfiguration wurde auf:
 - **Null-Schlupf**
 - **False-Positive-Reduktion**
-- **Schnelle Prüfzeit (<1s pro PCB)**  
+- **Schnelle Prüfzeit (<6s pro PCB)**  
 ausgelegt – in Übereinstimmung mit Sicherheits- und Qualitätsvorgaben der IATF 16949.
 
 ---
