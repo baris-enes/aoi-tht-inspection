@@ -75,9 +75,3 @@ aoi-tht-inspection/
 
 > Dieses Projekt basiert auf realen Industrieerfahrungen, wurde jedoch vollständig abstrahiert und anonymisiert.  
 > Alle dargestellten Daten und Strukturen sind synthetisch erzeugt. Es besteht keine Verbindung zu bestimmten Unternehmen oder Marken.
-
-> 💡 **SAP Fiori Kontext:**  
-> Im realen Projekt wurde SAP Fiori zur **Prozessfreigabe** genutzt – u. a. zur Dokumentation von:  
-> • Undichtigkeiten in der Stickstoff-Prozesskammer  
-> • Verunreinigungen und Zustand der Werkstückträger  
-> Eine direkte Kopplung an das AOI-System bestand nicht.
