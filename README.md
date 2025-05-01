@@ -10,6 +10,8 @@ Ziel ist es, mittels Machine Learning eine robuste Klassifikation kritischer Lö
 
 - Automatisierte Erkennung von Lotkugeln >170 µm Durchmesser
 - Kombination aus 2D- und 3D-Prüfung zur Schlupfvermeidung
+- 2D-Prüfung: Erkennung von Oberflächenmerkmalen (z. B. Glanz, Schatten, Kratzer)
+- 3D-Prüfung: Analyse von Höhenprofil, Volumen, Querschnitt und Formabweichungen
 - Training eines ML-Modells zur Fehlerklassifikation (OK / NOK)
 - Auditfähige Nachweise (Cp/Cpk, Golden Samples, Driftanalyse)
 - Simulation realer Einflussgrößen wie Trägerverunreinigungen, Glanz, Schatten, Prozesskammerleckage
