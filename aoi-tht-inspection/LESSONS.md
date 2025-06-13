@@ -1,6 +1,6 @@
-# 🧠 Erkenntnisse aus der Prozessfähigkeitsanalyse
+#  Erkenntnisse aus der Prozessfähigkeitsanalyse
 
-## 📉 convex_volume – das scheinbar wichtigste Merkmal
+##  convex_volume – das scheinbar wichtigste Merkmal
 
 Obwohl `convex_volume` laut Feature Importance das stärkste Merkmal zur Klassifikation im ML-Modell war, zeigt die Cp/Cpk-Analyse:
 
@@ -11,7 +11,7 @@ Das bedeutet: Die physikalische Ausprägung des Merkmals `convex_volume` (Lötvo
 
 ---
 
-## 🛠️ Wichtige Klarstellung:
+##  Wichtige Klarstellung:
 
 > Die statistische Unfähigkeit betrifft **nicht den AOI-Prozess selbst**, sondern den **vorgelagerten Lötprozess**.
 
@@ -25,16 +25,16 @@ Das bedeutet: Die physikalische Ausprägung des Merkmals `convex_volume` (Lötvo
 
 ---
 
-## 🎯 Lektion:
+##  Lektion:
 
 > Ein gutes Machine Learning-Modell ersetzt keine Prozessstabilität.  
 > Und ein AOI erkennt nur, was da ist – es kann keine Prozessdrift verhindern.
 
-📌 Die Cp/Cpk-Analyse ist ein Werkzeug zur Bewertung der **Produktionsstabilität**, nicht der AI-Leistung.
+ Die Cp/Cpk-Analyse ist ein Werkzeug zur Bewertung der **Produktionsstabilität**, nicht der AI-Leistung.
 
 ---
 
-## ✅ Fazit:
+##  Fazit:
 
 Diese Erkenntnis wurde bewusst dokumentiert, um die Abgrenzung zwischen Messsystem (AOI), Analysemodell (ML) und Prozessursache (Lötprozess) klarzustellen.  
 Sie zeigt, warum in der Produktion **alle Ebenen gemeinsam** betrachtet werden müssen, um Schlupf, Scheinfehler und Nacharbeit dauerhaft zu vermeiden.
