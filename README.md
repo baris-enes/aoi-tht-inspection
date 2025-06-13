@@ -1,4 +1,4 @@
-# 🔍 AOI-THT-Inspection – Solder Ball Detection with Machine Learning
+#  AOI-THT-Inspection – Solder Ball Detection with Machine Learning
 
 Dieses Projekt simuliert einen praxisnahen AOI-Prozess (Automated Optical Inspection) zur Erkennung von Lotkugeln an THT-Lötstellen (Through-Hole Technology) – basierend auf realer Berufserfahrung in der Automobil-Elektronikfertigung.
 
@@ -6,7 +6,7 @@ Ziel ist es, mittels Machine Learning eine robuste Klassifikation kritischer Lö
 
 ---
 
-## 🎯 Projektziele
+##  Projektziele
 
 - Automatisierte Erkennung von Lotkugeln >170 µm Durchmesser
 - Kombination aus 2D- und 3D-Prüfung zur Schlupfvermeidung
@@ -18,7 +18,7 @@ Ziel ist es, mittels Machine Learning eine robuste Klassifikation kritischer Lö
 
 ---
 
-## 🛠️ Technologien
+##  Technologien
 
 - Python 3.x  
 - Scikit-Learn – Decision Tree Classifier  
@@ -29,7 +29,7 @@ Ziel ist es, mittels Machine Learning eine robuste Klassifikation kritischer Lö
 
 ---
 
-## 🔐 Sicherheitsrelevanz
+##  Sicherheitsrelevanz
 
 Das AOI-System dient in diesem Projekt als **Firewall** gegen sicherheitskritische Lötfehler – insbesondere bei Komponenten wie DC/DC-Wandlern. Ein Schlupf würde potenziell zu elektrischen oder thermischen Ausfällen im Fahrzeug führen.
 
@@ -41,7 +41,7 @@ ausgelegt – in Übereinstimmung mit Sicherheits- und Qualitätsvorgaben der IA
 
 ---
 
-## 📁 Projektstruktur
+##  Projektstruktur
 
 ```bash
 aoi-tht-inspection/
@@ -66,14 +66,14 @@ aoi-tht-inspection/
 
 ---
 
-## 📬 Kontakt
+##  Kontakt
 
-**📧** [baris-enes@outlook.de](mailto:baris-enes@outlook.de)  
+ [baris-enes@outlook.de](mailto:baris-enes@outlook.de)  
 **www.linkedin.com/in/enes-baris-eng**
 
 ---
 
-## ⚠️ Hinweis
+##  Hinweis
 
 > Dieses Projekt basiert auf realen Industrieerfahrungen, wurde jedoch vollständig abstrahiert und anonymisiert.  
 > Alle dargestellten Daten und Strukturen sind synthetisch erzeugt. Es besteht keine Verbindung zu bestimmten Unternehmen oder Marken.
