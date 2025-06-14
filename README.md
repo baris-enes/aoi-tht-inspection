@@ -2,7 +2,13 @@
 
 Dieses Projekt simuliert einen praxisnahen AOI-Prozess (Automated Optical Inspection) zur Erkennung von Lotkugeln an THT-Lötstellen (Through-Hole Technology) – basierend auf realer Berufserfahrung in der Automobil-Elektronikfertigung.
 
-Ziel ist es, mittels Machine Learning eine robuste Klassifikation kritischer Lötfehler zu ermöglichen. Der Fokus liegt dabei auf der Erfüllung von Qualitätsanforderungen gemäß IPC-A-610 und IATF 16949 sowie auf der Sicherstellung von Auditfähigkeit und Null-Schlupf-Zielsetzungen in sicherheitsrelevanten Serienprozessen.
+##  Zielsetzung
+
+Ziel ist es, mittels Machine Learning eine robuste Klassifikation kritischer Lötfehler zu ermöglichen. Der Fokus liegt dabei auf:
+
+- Einhaltung der Qualitätsstandards gemäß **IPC-A-610** und **IATF 16949**
+- Sicherstellung von **Null-Schlupf** in sicherheitsrelevanten Elektronikprozessen
+- Automatisierbare und auditfähige AOI-Ergebnisse
 
 ---
 
@@ -38,6 +44,17 @@ Die AOI-Konfiguration wurde auf:
 - **False-Positive-Reduktion**
 - **Schnelle Prüfzeit (<6s pro PCB)**  
 ausgelegt – in Übereinstimmung mit Sicherheits- und Qualitätsvorgaben der IATF 16949.
+
+---
+
+## 📈 Modellbewertung
+
+In dieser ersten prototypischen Umsetzung wurde ein **Entscheidungsbaum-Klassifikator** eingesetzt. Dieses Modell wurde aufgrund seiner **hohen Interpretierbarkeit**, **robusten Entscheidungsregeln** und **kurzen Trainingszeiten** gewählt. Ziel war es nicht, verschiedene Modelle zu vergleichen, sondern ein industrietaugliches Grundmodell zu realisieren, das visuell und nachvollziehbar ist.
+
+Zukünftig denkbare Erweiterungen:
+- Vergleich mit anderen Modellen wie KNN, SVM, XGBoost
+- Integration von GridSearch für Hyperparameteroptimierung
+- Erhöhung der Datenmenge mit realen AOI-Bildern
 
 ---
 
