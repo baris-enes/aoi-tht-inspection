@@ -47,7 +47,7 @@ ausgelegt – in Übereinstimmung mit Sicherheits- und Qualitätsvorgaben der IA
 
 ---
 
-## 📈 Modellbewertung
+##  Modellbewertung
 
 In dieser ersten prototypischen Umsetzung wurde ein **Entscheidungsbaum-Klassifikator** eingesetzt. Dieses Modell wurde aufgrund seiner **hohen Interpretierbarkeit**, **robusten Entscheidungsregeln** und **kurzen Trainingszeiten** gewählt. Ziel war es nicht, verschiedene Modelle zu vergleichen, sondern ein industrietaugliches Grundmodell zu realisieren, das visuell und nachvollziehbar ist.
 
